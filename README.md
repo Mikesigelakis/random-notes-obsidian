@@ -71,3 +71,8 @@ Quick starting guide for new plugin devs:
 ## API Documentation
 
 See https://github.com/obsidianmd/obsidian-api
+
+
+## Suggestions:
+
+1. Change the name to be the same as my branch.
